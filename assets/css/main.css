@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: #0a192f;
+  --light-navy: #112240;
+  --lightest-navy: #233554;
+  --slate: #8892b0;
+  --light-slate: #a8b2d1;
+  --lightest-slate: #ccd6f6;
+  --green: #64ffda;
+}
+
+body {
+  @apply bg-navy text-slate antialiased;
+}
+
+.section-heading {
+  @apply text-2xl md:text-3xl font-semibold text-lightest-slate mb-8 flex items-center after:content-[''] after:block after:h-px after:w-64 after:bg-lightest-navy after:ml-4;
+}
