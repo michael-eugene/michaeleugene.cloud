@@ -19,9 +19,9 @@
           Resume
         </a>
       </div>
-      <button class="md:hidden" @click="isMenuOpen = !isMenuOpen">
+      <!-- <button class="md:hidden" @click="isMenuOpen = !isMenuOpen">
         <Bars3Icon class="h-6 w-6 text-green" />
-      </button>
+      </button> -->
     </div>
 
     <!-- Mobile Menu -->

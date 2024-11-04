@@ -1,16 +1,17 @@
 <template>
   <section class="min-h-screen flex flex-col justify-center">
-    <h1 class="font-mono text-green mb-5">Hi, my name is</h1>
+    <h1 class="font-mono text-green mb-5">Hi,</h1>
     <h2 class="text-5xl md:text-7xl font-semibold text-lightest-slate mb-4">
-      Michael Eugene.
+      I'm Michael Eugene.
     </h2>
     <h3 class="text-4xl md:text-6xl font-semibold text-slate mb-8">
-      I craft exceptional web experiences.
+      Welcome to my digital space.
     </h3>
     <p class="max-w-xl text-lg mb-12">
-      I'm a seasoned software engineer with over 15 years of experience,
-      specializing in Vue.js and modern web technologies. My passion lies in
-      creating elegant, performant applications using Vue.js and Tailwind CSS.
+      As a software engineer with over 15 years of experience, I have launched
+      fast and scalable web solutions on Vue.js and relevant technologies. You
+      can consider this part of your work done. Let’s speed up the projects and
+      bring your ideas into shape.
     </p>
     <a
       href="#work"
