@@ -33,7 +33,7 @@ const projects = [
       "A modern design portolio solution built with Vue.js and Tailwind CSS, featuring mouse gradient effects, advanced filtering, and responsive design.",
     tech: ["Vue.js", "Tailwind CSS", "TypeScript", "Nuxt", "Supabase"],
     link: "https://mormahstudios.netlify.app",
-    src: "/img/rotam.png",
+    src: "https://i.ibb.co/QDzYH36/rotam.png",
   },
   {
     title: "Eclipse Energy & Consulting",
@@ -41,7 +41,7 @@ const projects = [
       "Developed with a responsive, mobile-first design, ensuring seamless user experience across all devices. Prioritizing both functionality and user experience.",
     tech: ["Vue.js", "Nuxt.js", "Tailwind CSS"],
     link: "https://eclipseenergy.netlify.app",
-    src: "/img/eclipse.png",
+    src: "https://i.ibb.co/P5dc36K/eclipse.png",
   },
 ];
 </script>
