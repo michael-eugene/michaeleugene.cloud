@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen">
     <MouseGradient />
-    <Nav />
+    <Nav class="mb-2" />
     <main class="px-6 lg:px-36 2xl:px-48">
       <Hero />
       <About />
