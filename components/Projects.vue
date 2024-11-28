@@ -28,6 +28,14 @@
 <script setup>
 const projects = [
   {
+    title: "Rent.ng",
+    description:
+      "Simple and easy to use rental platform for renting out your properties.",
+    tech: ["Vue.js", "Tailwind CSS", "TypeScript", "Nuxt", "Supabase"],
+    link: "https://rentng.netlify.app",
+    src: "https://res.cloudinary.com/df9i87ac8/image/upload/v1732826326/Screenshot_2024-11-28_153240_mra4vw.png",
+  },
+  {
     title: "Mormah Studios",
     description:
       "A modern design portolio solution built with Vue.js and Tailwind CSS, featuring mouse gradient effects, advanced filtering, and responsive design.",

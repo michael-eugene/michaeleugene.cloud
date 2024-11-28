@@ -63,18 +63,18 @@ import { ref } from "vue";
 const activeTab = ref(0);
 
 const jobs = [
-  // {
-  //   company: "Republic Digitals",
-  //   title: "Founder & CEO",
-  //   period: "2023 - Present",
-  //   image: "assets/img/michael-v1.png", // Add the path to your image here
-  //   points: [
-  //     "Lead development of large-scale Vue.js applications with focus on performance and scalability",
-  //     "Architected and implemented complex frontend solutions using Vue.js, Nuxt, and Tailwind CSS",
-  //     "Mentored junior developers and established best practices for Vue.js development",
-  //     "Implemented modern CI/CD pipelines and testing strategies",
-  //   ],
-  // },
+  {
+    company: "Republic Digitals Creative Agency",
+    title: "Founder",
+    period: "2023",
+    image: "assets/img/michael-v1.png", // Add the path to your image here
+    points: [
+      "Lead development of large-scale Vue.js applications with focus on performance and scalability",
+      "Architected and implemented complex frontend solutions using Vue.js, Nuxt, and Tailwind CSS",
+      "Mentored junior developers and established best practices for Vue.js development",
+      "Implemented modern CI/CD pipelines and testing strategies",
+    ],
+  },
   // {
   //   company: "Eclipse Energy & Consulting",
   //   title: "Senior Vue.js Engineer",
