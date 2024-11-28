@@ -15,7 +15,7 @@
     </p>
     <a
       href="#work"
-      class="border border-green text-green px-7 py-4 rounded w-fit hover:bg-green/10 transition-colors"
+      class="button border border-green text-green px-7 py-4 rounded w-fit"
     >
       Check out my work!
     </a>

@@ -15,10 +15,10 @@
     "vue-router": "latest"
   },
   "devDependencies": {
+    "@heroicons/vue": "^2.1.1",
     "@nuxtjs/tailwindcss": "^6.12.2",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.14",
-    "@heroicons/vue": "^2.1.1"
+    "tailwindcss": "^3.4.15"
   }
 }

@@ -19,3 +19,35 @@ body {
 .section-heading {
   @apply text-2xl md:text-3xl font-semibold text-lightest-slate mb-8 flex items-center after:content-[''] after:block after:h-px after:w-64 after:bg-lightest-navy after:ml-4;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.button {
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.button:hover {
+  transform: scale(1.05);
+  background-color: rgba(100, 255, 218, 0.1); /* Lighten background on hover */
+}
+
+.nav-link {
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.nav-link:hover {
+  color: var(--green);
+  transform: translateY(-2px); /* Slightly lift the link */
+}
